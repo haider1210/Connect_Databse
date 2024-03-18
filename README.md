@@ -1,4 +1,3 @@
-It seems you're working with Python, specifically using the IPython environment. Let me break down the code for you:
 
 ```python
 from IPython.display import HTML
